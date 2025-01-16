@@ -3,6 +3,9 @@
 ## Project Objective
 The objective of this project was to create an interactive coffee sales dashboard in Excel to analyze and visualize sales data. The goal was to derive valuable insights into sales trends, customer behavior, and performance metrics, in order to aid in strategic decision-making and business optimization.
 
+-Dashboard Preview
+![{659A2DFB-6821-4FC7-8337-2831266C76D3}](https://github.com/user-attachments/assets/346e5fda-9fc0-4089-9224-89c764a812fa)
+
 ## Business Impact
 The findings from this project deliver significant business impact in the following ways:
 - **Enhancing Sales Strategies:** By identifying peak sales periods and top-selling products, the business can tailor marketing campaigns and promotional efforts to boost sales, resulting in increased revenue.
