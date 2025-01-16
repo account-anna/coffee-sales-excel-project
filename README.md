@@ -13,10 +13,10 @@ The findings from this project deliver significant business impact in the follow
 - **Optimizing Inventory Management:** Insights into sales trends based on coffee type and size enable better inventory planning, ensuring the most optimal stock levels and reducing stockouts and overstock situations.
 
 ## Project Structure
-### Data Analysis Techniques
+### Data Analysis
 1. **Pivot Tables:**
    - Summarized total sales by Coffee Type, Year, and Month to provide comprehensive view of sales performance over time
-   - 
+     
 2. **Excel Functions and Formulas:**
    - **XLOOKUP and INDEX MATCH:** Utilized these functions to ensure accurate data retrieval and matching.
    - **Operations and IF Functions:** Calculated total sales and categorized data for detailed analysis.
